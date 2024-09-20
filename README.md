@@ -1,6 +1,6 @@
 # mapreduce-py-emulator
 
-This repo contains a Python-based implementation of a MapReduce framework along with an example job that computes Term Frequency-Inverse Document Frequency (TF-IDF) for a collection of text reviews. The MapReduce framework (`MRE.py`) simulates the core functionalities of the MapReduce paradigm, enabling parallel processing of large datasets. The TF-IDF job (`tfidf.py`) utilizes this framework to analyze review data, calculating the importance of terms within each document relative to the entire corpus.
+This repo contains a Python-based implementation of a MapReduce framework along with an example job that computes Term Frequency-Inverse Document Frequency (TF-IDF) for a collection of text reviews. The MapReduce framework (`MRE.py`) simulates the core functionalities of the MapReduce paradigm, enabling parallel processing of large datasets. The TF-IDF job (`MapReduce_TFI-DF.py`) utilizes this framework to analyze review data, calculating the importance of terms within each document relative to the entire corpus.
 
 ## Features
 
